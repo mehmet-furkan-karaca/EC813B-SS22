@@ -1,5 +1,5 @@
 # EC813B-SS22
-This repository includes recitations for EC813B - Economics 813B Macroeconomics II and its Mathematical Foundations (Spring 2022).
+This repository includes recitations for EC813B - Macroeconomics II and its Mathematical Foundations (Spring 2022).
 
 Instructor: Andrei Shevchenko
 E-Mail: shevchen@msu.edu
